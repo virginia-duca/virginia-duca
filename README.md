@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-### Sou Virgínia Duca, estudande de desenvolvimento de software pela TRYBE  👋 ! 
-### Atualmente estudando back-end, com formação completa em front-end.
-### Além de dev, sou formada em Ciencias Biológicas pela UFMG, tenho muito interesse em projetos envolvendo Biotecnologia e Bioinformática 😄 !!
+## Sou Virgínia Duca, estudande de desenvolvimento de software pela TRYBE  👋 ! 
+## Atualmente estudando back-end, com formação completa em front-end.
+## Além de dev, sou formada em Ciencias Biológicas pela UFMG, tenho muito interesse em projetos envolvendo Biotecnologia e Bioinformática 😄 !!
 
 ### Tecnologias mais utilizadas:
 
