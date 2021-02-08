@@ -17,7 +17,7 @@ Tecnologias mais utilizadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
+### Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
 
 - virginiambd.bio@gmail.com
 - Linkedin: https://www.linkedin.com/in/virg%C3%ADnia-duca-0a31861a1/
