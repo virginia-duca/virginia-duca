@@ -11,6 +11,7 @@ Tecnologias mais utilizadas:
 - CSS
 - JavaScript ES6
 - React
+- NodeJS
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=virginia-duca)](https://github.com/anuraghazra/github-readme-stats)
 
