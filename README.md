@@ -1,7 +1,7 @@
 
 
 # Um pouco sobre mim...
- Sou Virgínia Duca, estudande de desenvolvimento de software pela TRYBE  👋 ! Residente de Belo Horizonte, Minas Gerais.
+ Sou Virgínia Duca, desenvolvedora Full-sStack e estudande de desenvolvimento de software pela TRYBE  👋 ! Residente de Belo Horizonte, Minas Gerais.
  Atualmente estudando back-end, com formação completa em front-end.
  Além de dev, sou formada em Ciencias Biológicas pela UFMG, tenho muito interesse em projetos envolvendo Biotecnologia e Bioinformática 😄 !!
 
@@ -12,6 +12,8 @@ Tecnologias mais utilizadas:
 - JavaScript ES6
 - React
 - NodeJS
+- MongoDB
+- MySql
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=virginia-duca)](https://github.com/anuraghazra/github-readme-stats)
 
