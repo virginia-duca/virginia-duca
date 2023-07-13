@@ -14,10 +14,13 @@ Tecnologias mais utilizadas:
 - NodeJS
 - MongoDB
 - MySql
+- React Native
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=virginia-duca)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/virginia-duca>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
 
