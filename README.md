@@ -18,11 +18,12 @@ Tecnologias mais utilizadas:
 
 <div>
 <a href="https://github.com/virginia-duca>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virginia-duca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&langs_count=8)
-
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&langs_count=8)
+ 
 ### Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
 
 - virginiambd.bio@gmail.com
