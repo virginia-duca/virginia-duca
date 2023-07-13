@@ -2,8 +2,7 @@
 
 # Um pouco sobre mim...
  Sou Virgínia Duca, desenvolvedora Full-Stack, formada na TRYBE  👋 ! Residente de Belo Horizonte, Minas Gerais.
- Atualmente estudando back-end, com formação completa em front-end.
- Além de dev, sou formada em Ciencias Biológicas pela UFMG, também tenho interesse em projetos envolvendo Biotecnologia e Bioinformática 😄 !!
+ Ja a 3 anos trabalho como desenvolvedora senior front-end na [Sapiensbank](www.sapiensbank.com.br). Atualmente estou fazendo uma Pós-graduação em Desenvolvimento mobile pela Puc Minas !
 
 Tecnologias mais utilizadas:
 
@@ -14,12 +13,13 @@ Tecnologias mais utilizadas:
 - NodeJS
 - MongoDB
 - MySql
+- Sequelize
 - React Native
 
 <div>
 <a href="https://github.com/virginia-duca>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=virginia-duca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
