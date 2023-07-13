@@ -2,7 +2,7 @@
 
 # Um pouco sobre mim...
  Sou Virgínia Duca, desenvolvedora Full-Stack, formada na TRYBE  👋 ! Residente de Belo Horizonte, Minas Gerais.
- Ja a 3 anos trabalho como desenvolvedora senior front-end na [[Sapiensbank](www.sapiensbank.com.br)](https://www.sapiensbank.com.br/). Atualmente estou fazendo uma Pós-graduação em Desenvolvimento mobile pela Puc Minas !
+ Ja a 3 anos trabalho como desenvolvedora senior front-end na [Sapiensbank](https://www.sapiensbank.com.br/). Atualmente estou fazendo uma Pós-graduação em Desenvolvimento mobile pela Puc Minas !
 
 Tecnologias mais utilizadas:
 
