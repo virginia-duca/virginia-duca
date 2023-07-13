@@ -16,7 +16,7 @@ Tecnologias mais utilizadas:
 - Sequelize
 - React Native
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&langs_count=8&layout=compact) [![virginia GitHub stats](https://github-readme-stats.vercel.app/api?username=virginia-duca)](https://github.com/virginia-duca/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&langs_count=8&layout=compact&theme=dark) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virginia-duca&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 ### Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
 
