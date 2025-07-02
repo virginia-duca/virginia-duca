@@ -57,7 +57,6 @@ Vamos conversar? 😄
 ⭐ Se gostou de algum projeto ou repositório, deixe uma estrela! Isso ajuda bastante e é sempre bem-vindo 💜
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&langs_count=8&layout=compact&theme=dark)
-![Virgínia's GitHub stats](https://github-readme-stats.vercel.app/api?username=virginia-duca&show_icons=true&theme=radical)
  
 ### Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
 
