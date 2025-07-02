@@ -16,6 +16,15 @@ Sou apaixonada por tecnologia, design de interfaces e criação de soluções qu
 - **Backend**: `Node.js`, `Express`, `Sequelize`, `MongoDB`, `MySQL`
 - **Outros**: `Expo`, `Git`, `Figma`, `Yup`, `Jest`, `Docker`, `Postman`
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
 ---
 
 ## 🚀 Alguns dos meus focos atuais
@@ -40,14 +49,15 @@ Estou disponível para **freelas**, **colaborações open source** e **novas opo
 Vamos conversar? 😄
 
 - 📧 **virginiambd.bio@gmail.com**  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/virg%C3%ADnia-duca-0a31861a1/)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/virginia-duca)  
 - 📱 Instagram: `@vivimenezesduca`
 
 ---
 
 ⭐ Se gostou de algum projeto ou repositório, deixe uma estrela! Isso ajuda bastante e é sempre bem-vindo 💜
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&langs_count=8&layout=compact&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&langs_count=8&layout=compact&theme=dark)
+![Virgínia's GitHub stats](https://github-readme-stats.vercel.app/api?username=virginiambd&show_icons=true&theme=radical)
  
 ### Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
 
