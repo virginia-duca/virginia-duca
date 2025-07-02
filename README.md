@@ -3,7 +3,7 @@
 ## 👩‍💻 Sobre mim
 
 Olá! Sou **Virgínia Duca**, desenvolvedora **Full-Stack** com foco atual em **Front-End**. Tenho mais de **4 anos de experiência** profissional, atuando como **desenvolvedora sênior front-end na Sapiensbank**.  
-Sou formada em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/) e atualmente curso uma **pós-graduação em Desenvolvimento Mobile** pela **PUC Minas**.
+Sou formada em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/).
 
 Sou apaixonada por tecnologia, design de interfaces e criação de soluções que realmente impactam usuários.
 
