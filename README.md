@@ -58,9 +58,3 @@ Vamos conversar? 😄
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-duca&langs_count=8&layout=compact&theme=dark)
  
-### Estou disponível para projetos free-lancer ! Entre em contato comigo por e-mail ou mídias sociais! :D
-
-- virginiambd.bio@gmail.com
-- Linkedin: https://www.linkedin.com/in/virg%C3%ADnia-duca-0a31861a1/
-- insta: @vivimenezesduca
-
